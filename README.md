@@ -4,7 +4,7 @@ The World Wide Charging Protocol Suite is a collection of protocols in order to
 connect market actors in the field of e-mobility solutions via scalable and secure
 Internet protocols. This repository provides a HTTP client for accessing WWCP entities
 and data structures. The software is written in TypeScript, additional JavaScript
-down compilations are provided for mobile wbe browsers.
+down compilations are provided for mobile web browsers.
 
 This software is developed by [GraphDefined GmbH](http://www.graphdefined.com).
 We appreciate your participation in this ongoing project, and your help to improve it.

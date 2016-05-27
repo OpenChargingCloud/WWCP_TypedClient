@@ -6,6 +6,10 @@ Internet protocols. This repository provides a HTTP client for accessing WWCP en
 and data structures. The software is written in TypeScript, additional JavaScript
 down compilations are provided for mobile web browsers.
 
+This allows you e.g. to rapid prototype a web application for ev charging.
+
+<img src="https://raw.githubusercontent.com/OpenChargingCloud/WWCP_TypedClient/master/docs/OpenChargingMap.png" width="250px">
+
 This software is developed by [GraphDefined GmbH](http://www.graphdefined.com).
 We appreciate your participation in this ongoing project, and your help to improve it.
 If you find bugs, want to request a feature or send us a pull request, feel free to

@@ -3,8 +3,8 @@
 The *World Wide Charging Protocol Suite (WWCP)* is a collection of protocols in order to
 connect market actors in the field of e-mobility solutions via scalable and secure
 Internet protocols. This repository provides an implementation of common WWCP data
-structures and a client for the accessing WWCP enabled HTTP servers. This allows you
-to rapid prototype web applications for ev charging having routing, reservation and
+structures and a HTTP client for the accessing WWCP APIs. This allows you to rapid
+prototype web applications for ev charging having routing, reservation and
 remotestart/-stop capabilities.
 
 <img src="https://raw.githubusercontent.com/OpenChargingCloud/WWCP_TypedClient/master/docs/OpenChargingMap.png" width="250px">
